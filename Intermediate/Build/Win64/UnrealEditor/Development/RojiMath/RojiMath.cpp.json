@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\epic games\\plugins\\rojimath\\source\\rojimath\\rojimath.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\epic games\\plugins\\rojimath\\intermediate\\build\\win64\\rojimatheditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\epic games\\plugins\\rojimath\\intermediate\\build\\win64\\unrealeditor\\development\\rojimath\\definitions.rojimath.h",
+            "d:\\epic games\\plugins\\rojimath\\source\\rojimath\\rojimath.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

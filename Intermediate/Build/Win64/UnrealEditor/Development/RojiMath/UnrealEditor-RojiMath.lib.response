@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RojiMath.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\Plugins\RojiMath\Intermediate\Build\Win64\RojiMathEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Epic Games\Plugins\RojiMath\Intermediate\Build\Win64\UnrealEditor\Development\RojiMath\RojiMath.cpp.obj"
+"D:\Epic Games\Plugins\RojiMath\Intermediate\Build\Win64\UnrealEditor\Development\RojiMath\RojiMathGameModeBase.cpp.obj"
+"D:\Epic Games\Plugins\RojiMath\Intermediate\Build\Win64\UnrealEditor\Development\RojiMath\RojiMath.init.gen.cpp.obj"
+"D:\Epic Games\Plugins\RojiMath\Intermediate\Build\Win64\UnrealEditor\Development\RojiMath\RojiMathGameModeBase.gen.cpp.obj"
+"D:\Epic Games\Plugins\RojiMath\Intermediate\Build\Win64\UnrealEditor\Development\RojiMath\Default.rc2.res"
+/OUT:"D:\Epic Games\Plugins\RojiMath\Intermediate\Build\Win64\UnrealEditor\Development\RojiMath\UnrealEditor-RojiMath.lib"

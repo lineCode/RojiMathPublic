@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RojiMathUtilities.cpp.obj": [
+			"PrimeCalculator.cpp.obj",
+			"RojiMathUtilities.cpp.obj",
+			"RojiMathUtilitiesBPLibrary.cpp.obj"
+		],
+		"Module.RojiMathUtilities.gen.cpp.obj": [
+			"PrimeCalculator.gen.cpp.obj",
+			"RojiMathUtilities.init.gen.cpp.obj",
+			"RojiMathUtilitiesBPLibrary.gen.cpp.obj"
+		]
+	}
+}

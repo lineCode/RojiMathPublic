@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealgame\\shipping\\rojimathutilities\\module.rojimathutilities.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\epic games\\plugins\\rojimath\\intermediate\\build\\win64\\rojimath\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealgame\\shipping\\rojimathutilities\\definitions.rojimathutilities.h",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealgame\\inc\\rojimathutilities\\rojimathutilities.init.gen.cpp",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealgame\\inc\\rojimathutilities\\rojimathutilitiesbplibrary.gen.cpp",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\source\\rojimathutilities\\public\\rojimathutilitiesbplibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\splinecomponent.generated.h",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealgame\\inc\\rojimathutilities\\rojimathutilitiesbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

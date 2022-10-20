@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\Epic Games\\Plugins\\RojiMath\\Source\\RojiMath\\RojiMath.Build.cs",
+		"D:\\Epic Games\\Plugins\\RojiMath\\Plugins\\RojiMathUtilities\\Source\\RojiMathUtilities\\RojiMathUtilities.Build.cs",
+		"D:\\Epic Games\\Plugins\\RojiMath\\Source\\RojiMath.Target.cs",
+		"D:\\Epic Games\\Plugins\\RojiMath\\Source\\RojiMathEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

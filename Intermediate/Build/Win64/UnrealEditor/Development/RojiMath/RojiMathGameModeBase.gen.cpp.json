@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\epic games\\plugins\\rojimath\\intermediate\\build\\win64\\unrealeditor\\inc\\rojimath\\rojimathgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\epic games\\plugins\\rojimath\\intermediate\\build\\win64\\rojimatheditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\epic games\\plugins\\rojimath\\intermediate\\build\\win64\\unrealeditor\\development\\rojimath\\definitions.rojimath.h",
+            "d:\\epic games\\plugins\\rojimath\\source\\rojimath\\rojimathgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\epic games\\plugins\\rojimath\\intermediate\\build\\win64\\unrealeditor\\inc\\rojimath\\rojimathgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

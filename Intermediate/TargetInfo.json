@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RojiMath",
+			"Path": "D:\\Epic Games\\Plugins\\RojiMath\\Source\\RojiMath.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RojiMathEditor",
+			"Path": "D:\\Epic Games\\Plugins\\RojiMath\\Source\\RojiMathEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

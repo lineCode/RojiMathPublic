@@ -1,0 +1,22 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealeditor\\debuggame\\rojimathutilities\\module.rojimathutilities.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\epic games\\plugins\\rojimath\\intermediate\\build\\win64\\rojimatheditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealeditor\\debuggame\\rojimathutilities\\definitions.rojimathutilities.h",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealeditor\\inc\\rojimathutilities\\primecalculator.gen.cpp",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\source\\rojimathutilities\\public\\primecalculator.h",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealeditor\\inc\\rojimathutilities\\primecalculator.generated.h",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealeditor\\inc\\rojimathutilities\\rojimathutilities.init.gen.cpp",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealeditor\\inc\\rojimathutilities\\rojimathutilitiesbplibrary.gen.cpp",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\source\\rojimathutilities\\public\\rojimathutilitiesbplibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\splinecomponent.generated.h",
+            "d:\\epic games\\plugins\\rojimath\\plugins\\rojimathutilities\\intermediate\\build\\win64\\unrealeditor\\inc\\rojimathutilities\\rojimathutilitiesbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

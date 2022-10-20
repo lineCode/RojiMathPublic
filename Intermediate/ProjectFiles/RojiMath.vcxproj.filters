@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RojiMath.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RojiMath.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RojiMathEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\CLEAN.bat" />
+    <None Include="..\..\LICENSE.txt" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\RojiMathUtilities">
+      <UniqueIdentifier>{458DAC54-28C3-3E6F-B0A3-81F908F491DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\RojiMathUtilities\Source">
+      <UniqueIdentifier>{B93A36C9-9D9D-39E4-9D93-30EB649734E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\RojiMathUtilities\Source\RojiMathUtilities">
+      <UniqueIdentifier>{0385AF6D-E73D-37F0-89B5-840B0F519455}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\RojiMathUtilities\Source\RojiMathUtilities\RojiMathUtilities.Build.cs">
+      <Filter>Plugins\RojiMathUtilities\Source\RojiMathUtilities</Filter>
+    </None>
+    <Filter Include="Plugins\RojiMathUtilities\Source\RojiMathUtilities\Private">
+      <UniqueIdentifier>{0848BA6D-BC8F-3349-851A-05AED231C285}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\RojiMathUtilities\Source\RojiMathUtilities\Private\PrimeCalculator.cpp">
+      <Filter>Plugins\RojiMathUtilities\Source\RojiMathUtilities\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\RojiMathUtilities\Source\RojiMathUtilities\Private\RojiMathUtilities.cpp">
+      <Filter>Plugins\RojiMathUtilities\Source\RojiMathUtilities\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\RojiMathUtilities\Source\RojiMathUtilities\Private\RojiMathUtilitiesBPLibrary.cpp">
+      <Filter>Plugins\RojiMathUtilities\Source\RojiMathUtilities\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\RojiMathUtilities\Source\RojiMathUtilities\Public">
+      <UniqueIdentifier>{EB2C2316-75AB-305E-ACDF-9B136671B035}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\RojiMathUtilities\Source\RojiMathUtilities\Public\PrimeCalculator.h">
+      <Filter>Plugins\RojiMathUtilities\Source\RojiMathUtilities\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RojiMathUtilities\Source\RojiMathUtilities\Public\RojiMathUtilities.h">
+      <Filter>Plugins\RojiMathUtilities\Source\RojiMathUtilities\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\RojiMathUtilities\Source\RojiMathUtilities\Public\RojiMathUtilitiesBPLibrary.h">
+      <Filter>Plugins\RojiMathUtilities\Source\RojiMathUtilities\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\RojiMathUtilities\RojiMathUtilities.uplugin">
+      <Filter>Plugins\RojiMathUtilities</Filter>
+    </None>
+    <Filter Include="Plugins\RojiMathUtilities\Config">
+      <UniqueIdentifier>{8EAFB1FA-56C2-3B61-B629-43754222FD05}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\RojiMathUtilities\Config\FilterPlugin.ini">
+      <Filter>Plugins\RojiMathUtilities\Config</Filter>
+    </None>
+    <Filter Include="Plugins\RojiMathUtilities\Resources">
+      <UniqueIdentifier>{61495A9B-7B34-3B14-8CAB-A23DBB3CCC4A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\RojiMathUtilities\Resources\Icon128.png">
+      <Filter>Plugins\RojiMathUtilities\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\RojiMathUtilities\Resources\old.png">
+      <Filter>Plugins\RojiMathUtilities\Resources</Filter>
+    </None>
+    <Filter Include="Source\RojiMath">
+      <UniqueIdentifier>{8FDF2DBE-1CBA-316A-8F8E-1B6DF4F172A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RojiMath\RojiMath.Build.cs">
+      <Filter>Source\RojiMath</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RojiMath\RojiMath.cpp">
+      <Filter>Source\RojiMath</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RojiMath\RojiMath.h">
+      <Filter>Source\RojiMath</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RojiMath\RojiMathGameModeBase.cpp">
+      <Filter>Source\RojiMath</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RojiMath\RojiMathGameModeBase.h">
+      <Filter>Source\RojiMath</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
