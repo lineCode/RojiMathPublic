@@ -4409,18 +4409,6 @@
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/RojiFileUtilities/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/RojiFileUtilities/Binaries/Win64/UnrealEditor-RojiFileUtilities.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/RojiFileUtilities/Binaries/Win64/UnrealEditor-RojiFileUtilities.pdb",
-			"Type": "SymbolFile"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Media/AndroidMedia/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
@@ -25680,10 +25668,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Importers/AlembicImporter/AlembicImporter.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/RojiFileUtilities/RojiFileUtilities.uplugin",
 			"Type": "UFS"
 		},
 		{
